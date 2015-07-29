@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="19 98 883 423" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="fill:#98b3f0;stroke-width:2;stroke:#000000">
+	<rect x="100" y="100" width="80" height="60"/>
+	<rect x="160" y="220" width="100" height="80"/>
+	<rect x="300" y="217" width="120" height="86"/>
+	<rect x="300" y="440" width="100" height="80"/>
+	<rect x="460" y="220" width="120" height="80"/>
+	<rect x="480" y="360" width="80" height="60"/>
+	<rect x="619.1" y="220" width="121.8" height="80"/>
+	<rect x="780" y="220" width="120" height="80"/>
+</g>
+<g style="fill:none;stroke-width:2;stroke:#000000">
+	<polyline points="400,460 520,460 520,431"/>
+	<polyline points="411,500 840,500 840,311"/>
+	<polyline points="449,280 439,280 439,460 460,460"/>
+	<polyline points="89,130 60,130 60,220 40,220"/>
+</g>
+<g style="fill:none;stroke-width:2;stroke:#000000">
+	<line x1="260" y1="260" x2="289" y2="260"/>
+	<line x1="580" y1="260" x2="608.1" y2="260"/>
+	<line x1="740.9" y1="260" x2="769" y2="260"/>
+	<line x1="520" y1="360" x2="520" y2="311"/>
+	<line x1="420" y1="260" x2="449" y2="260"/>
+	<line x1="149" y1="260" x2="20" y2="260"/>
+	<line x1="140" y1="160" x2="140" y2="249"/>
+	<line x1="289" y1="480" x2="71" y2="480"/>
+	<line x1="120" y1="160" x2="120" y2="469"/>
+	<line x1="60" y1="260" x2="60" y2="480"/>
+	<line x1="20" y1="220" x2="49" y2="220"/>
+</g>
+<g style="fill:#000000;stroke-width:2;stroke:#000000">
+	<polygon points="289,265 299,260 289,255"/>
+	<polygon points="608.1,265 618.1,260 608.1,255"/>
+	<polygon points="769,265 779,260 769,255"/>
+	<polygon points="525,431 520,421 515,431"/>
+	<polygon points="525,311 520,301 515,311"/>
+	<polygon points="411,495 401,500 411,505"/>
+	<polygon points="845,311 840,301 835,311"/>
+	<polygon points="449,285 459,280 449,275"/>
+	<polygon points="449,265 459,260 449,255"/>
+	<polygon points="149,265 159,260 149,255"/>
+	<polygon points="135,249 140,259 145,249"/>
+	<polygon points="289,485 299,480 289,475"/>
+	<polygon points="71,475 61,480 71,485"/>
+	<polygon points="115,469 120,479 125,469"/>
+	<polygon points="40,265 50,260 40,255"/>
+	<polygon points="40,225 50,220 40,215"/>
+	<polygon points="89,135 99,130 89,125"/>
+</g>
+<switch>
+	<g systemLanguage="es" font-size="12.8" style="fill:#000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700">
+		<text>
+			<tspan x="140" y="125.9">Lista</tspan>
+			<tspan x="140" y="141.9">Display</tspan>
+		</text>
+		<text>
+			<tspan x="210" y="263.9">Evaluación</tspan>
+		</text>
+		<text>
+			<tspan x="360" y="239.9">Operaciones</tspan>
+			<tspan x="360" y="255.9">por vértices</tspan>
+			<tspan x="360" y="271.9">Ensamblado</tspan>
+			<tspan x="360" y="287.9">de primitivas</tspan>
+		</text>
+		<text>
+			<tspan x="350" y="475.9">Operaciones</tspan>
+			<tspan x="350" y="491.9">de píxeles</tspan>
+		</text>
+		<text>
+			<tspan x="520" y="263.9">Rasterización</tspan>
+		</text>
+		<text>
+			<tspan x="520" y="378.9">Memoria</tspan>
+			<tspan x="520" y="394.9">de</tspan>
+			<tspan x="520" y="410.9">Texturas</tspan>
+		</text>
+		<text>
+			<tspan x="680" y="255.9">Operaciones</tspan>
+			<tspan x="680" y="271.9">por fragmentos</tspan>
+		</text>
+		<text>
+			<tspan x="840" y="255.9">Frame</tspan>
+			<tspan x="840" y="271.9">Buffer</tspan>
+		</text>
+	</g>
+	<g font-size="12.8" style="fill:#000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700">
+		<text>
+			<tspan x="140" y="125.9">Display</tspan>
+			<tspan x="140" y="141.9">List</tspan>
+		</text>
+		<text>
+			<tspan x="210" y="263.9">Evaluator</tspan>
+		</text>
+		<text>
+			<tspan x="360" y="239.9">Per-Vertex</tspan>
+			<tspan x="360" y="255.9">Operations</tspan>
+			<tspan x="360" y="271.9">Primitive</tspan>
+			<tspan x="360" y="287.9">Assembly</tspan>
+		</text>
+		<text>
+			<tspan x="350" y="475.9">Pixel</tspan>
+			<tspan x="350" y="491.9">Operations</tspan>
+		</text>
+		<text>
+			<tspan x="520" y="263.9">Rasterization</tspan>
+		</text>
+		<text>
+			<tspan x="520" y="385.9">Texture</tspan>
+			<tspan x="520" y="401.9">Memory</tspan>
+		</text>
+		<text>
+			<tspan x="680" y="255.9">Per-Fragment</tspan>
+			<tspan x="680" y="271.9">Operations</tspan>
+		</text>
+		<text>
+			<tspan x="840" y="255.9">Frame</tspan>
+			<tspan x="840" y="271.9">Buffer</tspan>
+		</text>
+	</g>
+</switch>
+</svg>
